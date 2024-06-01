@@ -46,20 +46,6 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at Vellore
   - Participated in Hackathons – Capture the Flag (CTF)
   - Key role in Math and Linux clubs
 
-### P. Obul Reddy Public School
-- Grade 12 CBSE: 94%, Grade 10: 95% (April 2006 – April 2021)
-- **Achievements:**
-  - CBSE Clusters Basketball – runner up – Under 19
-  - School Environment Ambassador – championed eco-friendly activities
-  - Top performer in Clash of PI – National Math contest
-  - 4th place in Brain Feed English & Aptitude test
-
-## 🏅 Achievements
-- Hackathons: Enhanced skills in hacking, deciphering & cracking codes, fostering idea-generation, and collaborative skills.
-- Basketball: Runner up in CBSE Clusters Basketball – Under 19
-- School Environment Ambassador: Championed eco-friendly activities to foster a greener environment in the school.
-- Math and Linux Clubs: Played a key role in fostering a collaborative learning environment.
-
 ## 🌍 Languages
 - English
 - Hindi
