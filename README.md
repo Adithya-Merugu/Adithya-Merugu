@@ -34,6 +34,8 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at Vellore
 ## 🌟 Student Experience
 - **Nexus Porps Youth Summit** – Representative for Facebook (November 2019)
   - Enhanced my knowledge on different business modules and their potential challenges by interacting with other delegates.
+- **Hosted a Seminar on Web Development**
+  – I recently hosted a web development workshop at VIT University, where students learned the essentials of HTML, CSS, and JavaScript. 
 
 ## 🎓 Education
 ### Vellore Institute of Technology, Chennai
@@ -69,7 +71,6 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at Vellore
 
 ## 📬 Contact
 - **Email:** [merugu.adithya.29@gmail.com](mailto:merugu.adithya.29@gmail.com)
-- **Mobile:** 91 9059219848
 - [LinkedIn](https://www.linkedin.com/in/adithya-merugu-33400026b)
 - [Leetcode](https://leetcode.com/adi_meru/)
 
